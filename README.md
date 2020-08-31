@@ -6,7 +6,7 @@ Angular Pro: Final App Seed
 
 ---
 
-<a href="https://ultimatecourses.com" target="_blank"><img src="https://ultimatecourses.com/static/banners/ultimate-angular-leader-old.svg"></a>
+:dash: [Deploy da aplicação](https://fitness-app-60d13.web.app/)
 
 ---
 
